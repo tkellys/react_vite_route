@@ -57,5 +57,9 @@ git init
 Deve-se primeiro criar o repositorio no GitHub
 ```js
 git remote add origin [link_do_repositorio_gitHub]
+git status, git push, git push --set -upstream origin master
 ```
+![image](https://github.com/tkellys/react_vite_route/assets/116043363/9ff180fb-e214-444e-87f5-4568b3b231d9)
+
+
 ## 2.3 - Repetir a partir do item 2 pra dar commit. 
