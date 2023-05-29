@@ -29,7 +29,7 @@ export const Login = () => {
 
     <div className="form-floating mb-6">
     <label htmlFor="floatingInput" className="mb-12">Email: </label>
-      <input type="email" 
+      <input type="e mail" 
       className="form-control"
        id="email" 
        placeholder="name@example.com"
@@ -54,7 +54,7 @@ export const Login = () => {
 
     <div className="checkbox mb-3">
       <label>
-        <input type="checkbox" value="remember-me"/> Remember me
+        <input type="checkbox" value="remember-me"/> Lembrar-me
       </label>
     </div>
     <button className="w-100 btn btn-lg btn-primary" type="submit" >Logar</button>
